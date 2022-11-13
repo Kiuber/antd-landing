@@ -207,7 +207,7 @@ export const Content10DataSource = {
     children: 'https://zos.alipayobjects.com/rmsportal/nLzbeGQLPyBJoli.png',
   },
   textWrapper: { className: 'content1-text', md: 14, xs: 24 },
-  title: { className: 'content1-title', children: '企业资源管理' },
+  title: { className: 'content1-title', children: '资源管理' },
   content: {
     className: 'content1-content',
     children:
@@ -223,13 +223,13 @@ export const Content30DataSource = {
     children: [
       {
         name: 'title',
-        children: '蚂蚁金融云提供专业的服务',
+        children: '专业的服务',
         className: 'title-h1',
       },
       {
         name: 'content',
         className: 'title-content',
-        children: '基于阿里云强大的基础资源',
+        children: '强大的基础资源',
       },
     ],
   },
@@ -248,7 +248,7 @@ export const Content30DataSource = {
               'https://zos.alipayobjects.com/rmsportal/ScHBSdwpTkAHZkJ.png',
           },
           textWrapper: { className: 'content3-text' },
-          title: { className: 'content3-title', children: '企业资源管理' },
+          title: { className: 'content3-title', children: '资源管理' },
           content: {
             className: 'content3-content',
             children:
@@ -272,7 +272,7 @@ export const Content30DataSource = {
           content: {
             className: 'content3-content',
             children:
-              '按金融企业安全要求打造的完整云上安全体系，全方位保障金融应用及数据安全。',
+              '按金融安全要求打造的完整云上安全体系，全方位保障金融应用及数据安全。',
           },
         },
       },
@@ -372,3 +372,4 @@ export const Footer00DataSource = {
     ),
   },
 };
+
