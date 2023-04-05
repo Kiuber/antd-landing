@@ -1,7 +1,7 @@
-from cpbox.tool import functocli
-from cpbox.tool import template
-from cpbox.tool import dockerutil
-from cpbox.app.devops import DevOpsApp
+from echobox.tool import functocli
+from echobox.tool import template
+from echobox.tool import dockerutil
+from echobox.app.devops import DevOpsApp
 
 import os
 
